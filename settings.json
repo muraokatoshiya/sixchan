@@ -1,0 +1,10 @@
+{
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args":[
+
+    ],
+    "python.formatting.provider": "black",
+    "files.exclude":{
+        "**/__pycache__": true
+    }
+}
